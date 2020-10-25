@@ -1,3 +1,4 @@
+Harsh Thakkar
 Safwat Rahman
 Stephen Zhao
 Nicholas Nyvall
