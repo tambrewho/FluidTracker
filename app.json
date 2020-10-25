@@ -1,0 +1,12 @@
+{
+  "name": "FluidTracker",
+  "displayName": "FluidTracker",
+  "expo": {
+    "name": "FluidTracker",
+    "slug": "FluidTracker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
